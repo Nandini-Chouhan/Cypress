@@ -1,9 +1,10 @@
 # Cypress Lenskart automation
 ### To run this project on local
-- your local machine must have node installed 
-- clone this project on your machine
-- then run **npm install**
-- used xpath, so install xpath plugin by running **npm install -D cypress --xpath**
+- Your local machine must have node installed 
+- Clone this project on your machine
+- Run **npm install**
+- Used xpath, so install xpath plugin by running **npm install -D cypress --xpath**
+- Update the credential in **fixture/testdata.json** file
 - then to run the test use command **npm run test**
   
 
